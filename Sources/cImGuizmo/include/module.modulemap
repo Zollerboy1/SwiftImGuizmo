@@ -1,0 +1,4 @@
+module cImGuizmo {
+    header "cimguizmo.h"
+    link "cImGuizmo"
+}

@@ -1,0 +1,6 @@
+[submodule "Sources/cppImGuizmo/imguizmo"]
+	path = Sources/cppImGuizmo/imguizmo
+	url = https://github.com/Zollerboy1/ImGuizmo.git
+[submodule "Sources/cppImGuizmo/imgui"]
+	path = Sources/cppImGuizmo/imgui
+	url = https://github.com/ocornut/imgui.git
